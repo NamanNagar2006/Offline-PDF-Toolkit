@@ -1,7 +1,5 @@
 # Offline-PDF-Toolkit
 
-# Offline PDF Toolkit
-
 A lightweight offline PDF utility for Windows.
 
 ## Features
